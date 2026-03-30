@@ -1,0 +1,1 @@
+SQLAlchemy, psycopg2-binary, pandas, numpy, matplotlib.pyplot, seaborn
